@@ -1,4 +1,9 @@
-package br.infoscan.sfgdi.services;/**
+package br.infoscan.sfgdi.services;
+
+/**
  * Created by hscan on 05/02/2021
- */public interface GreetingService {
+ */
+public interface GreetingService {
+
+    String sayGreeting();
 }
